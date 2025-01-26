@@ -8,4 +8,4 @@ solo, .jpg, 3
 
 #test image sets:
 ts1, .jpg, 3
-#ts2, .jpg, 3
+ts2, .jpg, 3
