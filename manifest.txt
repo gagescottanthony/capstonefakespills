@@ -1,11 +1,11 @@
 #INPUT IMAGESET MANIFEST FILE
 #lines beginning with number sign # are ignored for easier temporary edits and comments
 #all images in a set must use same file extension :)
-#all entries are formatted as "NAME, .extension" (space after comma not strictly necessary)
+#entries are separated by line and formatted as "NAME, .extension, number of digits in file number" (space after comma not strictly necessary)
 
 #solo test image for implementation:
-solo, .jpg
+solo, .jpg, 3
 
 #test image sets:
-#ts1, .jpg
-#ts2, .jpg
+ts1, .jpg, 3
+#ts2, .jpg, 3
